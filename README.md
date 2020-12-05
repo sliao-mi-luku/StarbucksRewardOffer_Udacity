@@ -1,4 +1,4 @@
-# StarbucksRewardOffer_Udacity
+# Starbucks Reward Offer (Udacity)
 Giving customer incentive offers based on behaviors
 
 ---
