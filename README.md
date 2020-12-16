@@ -34,3 +34,7 @@ Giving customer incentive offers based on behaviors
 
 
 ## Models
+
+### Benchmark Model:
+
+### Market Basket Analysis
